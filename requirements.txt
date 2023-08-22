@@ -1,0 +1,12 @@
+#pip install -r requirements.txt
+xgboost
+lightgbm
+catboost
+optuna
+optuna-dashboard
+pandas-profiling
+shap
+mlflow
+feather-format
+xfeat
+pytorch_tabnet

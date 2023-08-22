@@ -1,0 +1,8 @@
+# Ignore everything in 'model' directory
+model/*
+
+# Ignore everything in 'data' directory
+data/*
+
+# Ignore everything in 'data_processed' directory
+data_processed/*
